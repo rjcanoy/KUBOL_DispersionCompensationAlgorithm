@@ -18,4 +18,4 @@ Dispersion compensation algorithm which is based on the optimisation of the coef
 
 [1] [YG Kang, RJE Canoy, et al., *Biomed. Opt. Express* **14**, 2 (2023).](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-577&id=524732)
 
-[2] [RJE Canoy, *An analysis of a split-spectrum-based functional Optical Coherence technique as a quantitative tool to monitor cellular behaviors (Unpublished master's thesis)*, Korea Universitty, Seoul, South Korea, pp. 13-19, (2022).](https://dcollection.korea.ac.kr/public_resource/pdf/000000269071_20230221150939.pdf)
+[2] [RJE Canoy, *An analysis of a split-spectrum-based functional Optical Coherence technique as a quantitative tool to monitor cellular behaviors (Unpublished master's thesis)*, Korea University, Seoul, South Korea, pp. 13-19, (2022).](https://dcollection.korea.ac.kr/public_resource/pdf/000000269071_20230221150939.pdf)
